@@ -1,0 +1,156 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 8 Jul, 2018, 1:18:04 PM
+    Author     : dell
+*/
+body
+					{
+						background:white;
+					}
+					
+				.outer
+					{
+						padding:10px;
+						background:white;
+						width:98%;
+                                                
+                                                height:600px;
+                                              border:0px groove black;
+                                                /*overflow:auto;*/
+                                                
+						
+			
+					}
+                                 .c3
+                                 {
+                                     color:red;
+                                     text-align: center;
+                                 }
+				
+    
+  
+
+.c1{
+    
+    border:2px solid blue;
+    width:400px;
+}
+.c2
+{
+    background:#454545;
+    color:white;
+  
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    height:30%;
+    
+    height:20%
+    
+    
+}
+.c4H{
+    width:100%;
+    padding:10px;
+    border-bottom: 5px solid #454545;
+    overflow:auto;
+    text-align:center;
+    
+}
+
+.c4{
+    width:20%;
+    padding:10px;
+    border: 5px solid #454545;
+    float:left;
+    height:100%;
+}
+.c4a{
+    width:20%;
+    padding:10px;
+    border: 5px solid #454545;
+}
+.c5H
+{
+    
+    float:left;
+    font-size:20px;
+    padding:10px;
+    background:Black;
+    border:3px groove #1f618d;
+    margin-top:5px;
+    border-radius:6px;
+    margin-left: 10px;
+}
+.c5H:hover{
+    background:#f06292;    
+}
+.c5
+{
+    width:70%;
+    font-size:20px;
+    padding:10px;
+    background:Black;
+    border:3px groove #1f618d;
+    margin-top:5px;
+    border-radius:6px;
+}
+.c5:hover{
+    background:#f06292;    
+}
+.aCat{
+    text-decoration:none;
+    color:white;
+}
+
+.aCat:hover{
+    
+    color:white;
+}
+.aheader{
+    color:white;
+    text-decoration:none;
+}
+
+.home
+{
+    
+    height:400px;
+    
+}
+.text
+{
+    font-size:20px;
+    color:#566573;
+    padding:10px;
+    
+}
+.c6
+{
+     width:10%;
+    font-size:15px;
+    padding:5px;
+    background:Black;
+    border:3px groove #1f618d;
+    margin-top:2px;
+    border-radius:6px;
+    color:white;
+    text-align:center;
+    text-decoration:none;
+
+}
+.div
+{
+  padding:10px;
+  margin-top:5px;
+  width:15%;
+  text-align:center; 
+  color:white;
+  float:left;
+  background:black;
+}
